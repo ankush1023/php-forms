@@ -8,7 +8,9 @@
 
     </head>
     <body>
-        <form></form>
+        <form>
+            <input type="text">
+        </form>
     </body>
 
 </html>
